@@ -1,0 +1,28 @@
+{
+  "name": "Elezuo Benjamin",
+  "bio": "Creative designer specializing in flyers, branding, and visual storytelling.",
+  "sections": [
+    {
+      "title": "Flyer Designs",
+      "images": ["flyer1.jpg", "flyer2.jpg", "flyer3.jpg", "flyer4.jpg"]
+    },
+    {
+      "title": "Branding Designs",
+      "images": ["brand1.jpg", "brand2.jpg"]
+    },
+    {
+      "title": "Behind the Scenes",
+      "video": "bts-video.mp4"
+    },
+    {
+      "title": "Contact",
+      "email": "elezuo@example.com",
+      "phone": "+234-8",
+      "links": {
+        "Instagram": "#",
+        "WhatsApp": "#",
+        "X": "#"
+      }
+    }
+  ]
+}
